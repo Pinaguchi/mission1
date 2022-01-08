@@ -36,14 +36,14 @@ main {
 
 .box-item2 {
   height: 150px;
-  background-image: url(img/flow02.png);
+  background-image: url(img/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .box-item3 {
   height: 150px;
-  background-image: url(img/flow03.png);
+  background-image: url();
   background-size: cover;
   background-position: bottom;
 }
